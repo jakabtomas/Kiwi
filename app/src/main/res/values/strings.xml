@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kiwi</string>
+    <string name="oops_something_went_wrong">Ooops, something went wrong</string>
+    <string name="no_items_found">so empty</string>
+    <string name="img_url">https://images.kiwi.com/photos/600x600/%1$s.jpg</string>
+</resources>
